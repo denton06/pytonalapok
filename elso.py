@@ -4,8 +4,7 @@ system("cls")
 
 elsoValtozo = 12
 
-print(elsoValtozo)
+kiir = "A változó értéke: " +str(elsoValtozo)
 
-elsoValtozo = "A 10_a a legjobb"
+print(kiir)
 
-print(elsoValtozo)
